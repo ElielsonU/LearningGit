@@ -1,3 +1,3 @@
 print("Hi i'm Elielson")
-while True:
-	print("Bugs")
+for x in range(10):
+	print(f"value of x: {x}")
